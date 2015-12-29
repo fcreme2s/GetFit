@@ -41,7 +41,7 @@
 		<div class="container">
 			<div class="content">
 				<div class="title">Laravel 5</div>
-				<div class="quote">Lets get started and lets get FIT!!!</div>
+				<div class="quote">Lets get started and lets get FIT!!!!</div>
 			</div>
 		</div>
 	</body>
